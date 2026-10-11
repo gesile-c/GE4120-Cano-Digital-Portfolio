@@ -1,4 +1,4 @@
-# IT Skills Digital Portfolio
+# GE 4120: 21st Century IT Skills
 Welcome to my digital portfolio for 21st Century IT Skills. This repository contains my learning progress and completed outputs from Weeks 1 to 5.
 ## Portfolio Activities
 ### Activity 1 — Presentation Design Principles
