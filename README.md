@@ -1,5 +1,5 @@
 # GE 4120: 21st Century IT Skills
-Welcome to my digital portfolio for 21st Century IT Skills. This repository contains my learning progress and completed outputs from Weeks 1 to 5.
+Welcome to my digital portfolio for 21st Century IT Skills. This portfolio showcases my activities, learning progress and completed outputs throughout the course. 
 ## Portfolio Activities
 ### Activity 1 — Presentation Design Principles
 This activity focused on effective visual communication and the principles of presentation design. The output is a promotional poster for a free coffee event using the content and details provided by our professor.
