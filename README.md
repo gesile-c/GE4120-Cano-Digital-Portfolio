@@ -7,5 +7,4 @@ This activity focused on effective visual communication and the principles of pr
 This activity focused on creating a personal brand identity. The output includes the MOVA logo, tagline, color palette, typography set, and other personal branding materials.
 ### Activity 3 — Infographic and Project Documentation
 This activity focused on information synthesis, visual storytelling, and project documentation. The outputs include a one-page infographic about job-skills mismatch among college graduates and a proposed digital job-matching system.
-## Purpose of this Portfolio
-This portfolio documents my learning progress and demonstrates how I applied the concepts and skills discussed throughout the preliminary period.
+
